@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h2> नमस्ते, All <coders/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='giphy.gif' width='400'>
+
 
 Hi, My name is Nishant Mittal. I have a keen interest in Machine Learning and Web Developments.
 I am very dedicated to my work and passionate about implementing and launching new ideas. Fast learner and adaptable to different project environments.
